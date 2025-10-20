@@ -1,2 +1,2 @@
 # eeg-learning
-EEG learning record
+EEG learning record.
